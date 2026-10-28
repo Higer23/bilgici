@@ -1,13 +1,11 @@
 # bilgici
 
-No description has been provided yet.
-
-## Details
-
-- Primary language: Not specified
-- License: not specified
-- Repository: https://github.com/Higer23/bilgici
+This repository currently contains only a README and no code yet.
 
 ## Status
 
-Setup and usage instructions are not yet documented. They will be added in a future update.
+Planned contents and setup instructions will be added once the project has code.
+
+## License
+
+No license has been specified yet.
